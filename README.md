@@ -44,7 +44,7 @@ AI Sol Agent is an advanced Web3 chatbot template that enables natural language 
 
 3. Install dependencies:
     ```bash
-    npm install
+    npm npm i --legacy-peer-deps
     ```
 
 4. Set up environment variables:
