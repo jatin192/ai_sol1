@@ -4,6 +4,6 @@
   "installCommand": "npm i --legacy-peer-deps",
   "framework": "nextjs",
   "env": {
-    "NODE_VERSION": "23.x"
+    "NODE_VERSION": "22.x"
   }
 }
